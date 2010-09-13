@@ -1,0 +1,734 @@
+.announce {
+background-color:#ffa;
+border:1px solid #999;
+clear:right;
+font-size:.875em;
+margin-bottom:1em;
+padding:10px;
+}
+
+.announce li {
+margin:0;
+}
+
+.announce ul {
+list-style:none;
+padding-left:1em;
+margin:0;
+}
+
+.black_text {
+color:#000!important;
+}
+
+.blockquote {
+display:block;
+margin-left:2em;
+}
+
+.bold_text {
+font-weight:700!important;
+}
+
+.green_text {
+color:green!important;
+}
+
+.highlight_text {
+background-color:#ffa!important;
+}
+
+.shade_text {
+ background-color: #eeb!important;
+}
+
+.incomplete {
+text-decoration:underline;
+}
+
+.italic_text {
+font-style:italic!important;
+}
+
+.large_text {
+font-size:1.25em!important;
+}
+
+.light_text,.light_text a {
+color:#777!important;
+}
+
+.margin_bottom {
+margin-bottom:1em!important;
+}
+
+.margin_top {
+margin-top:1em!important;
+}
+
+.medium_text {
+font-size:1em!important;
+}
+
+.red_text {
+color:red!important;
+}
+
+.small_text {
+font-size:.875em!important;
+}
+
+.stat_average,.stat_total {
+background-color:#ddd;
+font-weight:700;
+}
+
+.table_heading {
+margin:1em 0 0;
+padding:5px 5px 5px 0;
+}
+
+.table_heading form,#quick_index li {
+display:inline;
+}
+
+.table_heading h1,.table_heading h2,.table_heading h3,.table_heading h4 {
+border:1px solid #666;
+display:inline;
+font-weight:700;
+margin-right:10px;
+padding:5px;
+white-space:nowrap;
+}
+
+.table_heading h1, .table_heading h2,.table_heading_by_pos h1, .table_heading_by_pos h2 {
+    font-size: 1.25em;
+}
+/* added, so give an option for a smaller header on the splits */
+.table_heading h3, .table_heading_by_pos h3 {
+    font-size: 1.0em;
+}
+.table_heading h4, .table_heading_by_pos h4 {
+    font-size: 0.8em;
+}
+
+
+.table_heading_text {
+display:inline;
+font-size:.75em;
+}
+
+.tooltip {
+color:#a00;
+cursor:pointer;
+}
+.nopointer {
+cursor:default;
+}
+
+
+
+.x_large_text {
+font-size:1.5em!important;
+}
+
+.x_small_text {
+font-size:.75em!important;
+}
+
+.xx_large_text {
+font-size:2em!important;
+}
+
+.xxx_large_text {
+font-size:2.6em!important;
+}
+
+.xx_small_text {
+font-size:.625em!important;
+}
+
+#advert300x250, #fm300x250 {
+clear:right;
+float:right;
+margin:5px 0;
+}
+
+#advert728x90, #fm728x90 {
+float:left;
+width:728px;
+margin:5px 0;
+}
+
+#column_left {
+float:left;
+margin-right:13px;
+width:29%;
+}
+
+#column_center {
+float:left;
+width:36%;
+}
+
+#column_right {
+float:right;
+width:30%;
+}
+
+#column_wrapper {
+margin-top:1em;
+}
+
+#info_box {
+background-color:#fff;
+border-bottom:1px solid #000;
+clear:both;
+font-size:.875em;
+min-height:260px;
+width:100%;
+margin:0;
+}
+
+#info_box form {
+display:inline;
+margin-left:1em;
+}
+
+#info_box h1,#info_box h2 {
+font-size:2em;
+margin:5px 0 0 .5em;
+}
+
+#page_container {
+width:98%;
+}
+
+#page_container_front {
+border-left:2px solid #999;
+border-right:2px solid #999;
+overflow:hidden;
+width:980px;
+}
+
+#page_container,#page_container_front {
+background-color:#fff;
+text-align:left;
+margin:0 auto;
+padding:13px;
+}
+
+#page_content {
+clear:left;
+float:left;
+margin-bottom:1em;
+width:100%;
+}
+
+#quick_index {
+border-top:1px solid #000;
+clear:both;
+font-size:.875em;
+width:100%;
+}
+
+#quick_index li a {
+background-color:#747678;
+border-right:1px solid #fff;
+color:#fff;
+float:left;
+padding:.35em .7em;
+}
+
+
+#quick_index ul {
+background-color:#747678;
+float:left;
+width:100%;
+margin:0;
+padding:0;
+}
+
+#site_footer {
+border-top:2px dotted #747678;
+clear:left;
+float:left;
+font-size:.875em;
+margin-top:1em;
+padding-top:10px;
+text-align:center;
+width:100%;
+}
+
+#site_header {
+width:100%!important;
+position: relative; /* some changes so that the logo rests down on the quick index no matter how many lines header.html_f has */
+margin-bottom: 7px;                                 
+}
+
+table.wide_table {
+width:100%!important;
+margin-bottom: 7px;                                 
+}
+
+#sponsor {
+background-color:#ffa;
+border-bottom:1px solid #000;
+clear:both;
+font-size:.875em;
+width:100%;
+}
+
+#sponsor #alert {
+margin-right:1em;
+text-align:right;
+}
+
+#sponsor #message .indent {
+text-indent:2em;
+}
+
+#sponsor p,#sponsor_no p,#info_box p {
+margin-left:1em;
+}
+
+#sponsor_no {
+background-color:#fff;
+float:left;
+font-size:.75em;
+margin-left:1em;
+width:250px;
+}
+
+#sponsor,#sponsor_no {
+padding:5px 0;
+}
+
+#sr_header {
+clear:right;
+float:right;
+font-size:.875em;
+height:80px;
+text-align:right;
+margin:5px 0;
+}
+
+#sr_header form .search {
+border:1px solid #747678;
+width:12em;
+}
+
+#sr_header form .submit,#column_left form .submit {
+border:1px solid #747678;
+color:#fff;
+cursor:pointer;
+margin:0;
+padding:0;
+}
+
+#sr_header form, #column_left form {
+margin:10px 0 0;
+}
+
+#you_are_here {
+background-color:#ddd;
+border-bottom:1px solid #000;
+border-top:1px solid #000;
+clear:both;
+font-size:.875em;
+width:100%;
+}
+
+#you_are_here p {
+margin:0;
+padding:.35em .7em;
+}
+
+a:active {
+color:red;
+}
+
+a:link {
+color:#00f;
+}
+
+a:visited {
+color:purple;
+}
+
+body {
+background-color:#fff;
+font:1em Verdana, Arial, Sans-serif;
+text-align:center;
+margin:0;
+padding:0;
+background-attachment: scroll !important;
+}
+
+body#front {
+background-color:#ddd!important;
+}
+
+dd {
+margin:0 0 1em 1em;
+}
+
+dt {
+font-weight:700;
+margin:0 0 1em;
+}
+
+img {
+border:0;
+}
+
+table {
+border-collapse:collapse;
+font-size:1em;
+}
+
+table td {
+padding-right:1em;
+}
+
+table.calendar td {
+height:65px;
+width:75px;
+white-space:nowrap;
+}
+
+table.calendar td,table.calendar th,table.stats_table th,table.stats_table td {
+border:1px solid #ccc;
+padding:2px!important;
+}
+
+table.calendar th,table.stats_table th {
+background-color:#ddd;
+}
+
+table.calendar,table.stats_table {
+border:1px solid #ddd;
+/* font-size:.75em;   12 px */
+font-size:.6875em;  /* 11 px, looks standard across many sites with stats tables.*/
+margin-bottom:1em;
+}
+
+table.stats_table tr.normal_text {
+font-size:1.15em;  /* 12 px */
+}
+table.stats_table tr.normal_text th, table.stats_table tr.normal_text td {
+   padding: 4px!important;
+}
+
+table.sortable th.sort_col {
+background-color:#ffa;
+}
+
+table.stats_table table td {
+border:0;
+padding:2px!important;
+}
+
+table.stats_table td {
+white-space:nowrap;
+}
+
+table.stats_table td.double_border {
+border-left:4px solid #aaa;
+}
+
+
+
+/***************************************************/
+/* ADDITIONS BY SF */
+/***************************************************/
+.inline { display: inline;}
+.print_only { display: none; }
+
+.partial_table,.partial_table a {
+                                  color: #4a4a4a;
+                                  text-decoration: none;
+                                  }
+
+.blank_table {
+               background-color: #ddd; height: 0; padding:0;
+               }
+
+table.stats_table td.wrap {
+                            white-space:normal;
+                            }
+
+/* Used in Statline for toggling rate qualifiers on and off in a team or league register */
+
+
+/* To handle the more option for the quick index. */
+#quick_index form select {
+    background-color: #747678;
+    color: #fff;
+    cursor: pointer;
+    border: 0px;
+    text-decoration: underline;
+    font-size:inherit;
+    padding: 0;
+    margin: 0;
+    margin-top:2px;
+}
+
+#quick_index form select option {
+    background-color: #747678;
+    color: #fff;
+    cursor: pointer;
+    border: 0px;
+    text-decoration: underline;
+    font-size:inherit;
+    padding:1px 3px 1px 3px;
+}
+
+#quick_index li.active form select, #quick_index form select option.active {
+    background-color: #c60c30;
+    color: #fff;
+}
+
+/* Needed for player pages where we have more than just the 300x250 ad */
+.rhs_ad_area {
+    background-color: #fff;
+    float: right;
+    width: 300px;
+    clear: right;
+    padding: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;    z-index: 20;
+    border: 1px solid black;
+}
+
+/* Used to mark All-Stars and HOFers */
+.bunting {
+    margin-top : .25em;
+        background-image : url(http://d2ft4b0ve1aur1.cloudfront.net/images-001/fsnip.png);
+        background-repeat : repeat-x;
+        text-align : center;
+}
+
+/* More stats links next to the headers */
+.table_heading h2.alt {
+    background-color: #000;
+    font-weight: normal;
+    margin-left: -9px;
+    margin-right: 15px;
+    padding-right: 15px;
+    color: #fff;
+}
+
+.table_heading h2.alt a, .table_heading h2.alt a:visited {
+    background-color: #000;
+    margin-right: -9px;
+    color: #fff;
+}
+
+.table_heading h1 a {
+    margin-right: -9px;
+}
+.table_heading h1 {
+    padding-right: 15px;
+}
+
+/* prevent these items from wrapping as it ruins the look */
+.table_heading_text {
+white-space:nowrap;
+}
+.table_heading h2 {
+white-space:nowrap;
+}
+
+/************************************************/
+/* Sub indexes on the B-R site */
+ul.sub_index a:visited { color: #fff; }
+
+ul.sub_index, ul.sub_index ul { /* all lists */
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    line-height: 1;
+    font-size: .90em;
+}
+
+ul.sub_index  li { /* all list items */
+    float: left;
+    font-size: .95em;
+}
+
+ul.sub_index  li .like_link { /* all list items */
+    cursor: pointer;
+}
+
+ul.sub_index li a, ul.sub_index li a:visited, ul.sub_index li span.like_a {
+    display: block;
+    padding: .4em .65em;
+    background-color: #747678;
+    border-right: 1px solid #fff;
+    color: #fff;
+}
+
+
+ul.sub_index a.no_border, ul.sub_index span.no_border {
+    border-right: 0;
+}
+
+ul.sub_index li ul { /* second-level lists */
+    width: 11.5em;
+    position: absolute;
+    background-color: #fff;
+    border:2px solid #00f;
+    left: -999em;
+}
+
+ul.sub_index li.drophover ul { /* lists nested under hovered list items */
+    left: auto;
+}
+
+
+ul.sub_index li ul li { /* all list items */
+    width: 11.5em;
+    background-color: #fff;
+}
+
+ul.sub_index li ul li.narrow { /* all list items */
+    width: 5.5em;
+}
+
+ul.sub_index  li ul li a, ul.sub_index  li ul li a:visited, ul.sub_index li ul li span.like_a { /* all list items */
+    color: #000;
+    width: 10.8em;
+    background-color: #fff;
+}
+
+ul.sub_index  li ul li.narrow a, ul.sub_index  li ul li.narrow a:visited, ul.sub_index li ul li.narrow span.like_a { /* all list items */
+    width: 5.3em;
+}
+
+ul.sub_index li a:hover, ul.sub_index li span.like_link:hover {
+    background-color: #00f;
+}
+
+ul.sub_index li.active ul li a, ul.sub_index li.active ul li a:visited {
+    background-color:  #fff; color: #000; 
+    text-decoration: underline; font-weight: normal;
+}
+
+ul.sub_index li.active a, ul.sub_index li.active a:visited, ul.sub_index li.active span.like_a,   ul.sub_index li ul li.active a, ul.sub_index li ul li.active a:visited {
+    background-color: #e3e3e3; 
+    color: #000; 
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+ul.sub_index li.active ul li a:hover, ul.sub_index li ul li a:hover {
+    background-color: #aaf;
+    text-decoration: underline; font-weight: normal;
+}
+ul.sub_index li.active ul li.active a:hover, ul.sub_index li.active a:hover {
+    background-color: #e3e3e3; color: #000; 
+    text-decoration: none; font-weight: bold;
+}
+
+
+ul.sub_index span.inactive, ul.sub_index li.active span.inactive, ul.sub_index li ul li span.inactive {
+    background-color: #fff;
+    color: #999;
+    font-weight: normal;
+}
+
+
+/* Relating to large number of form elements in a page. */
+.stats_table form {
+margin: 0em;
+padding: 0em;
+}
+
+.stats_table select, .stats_table input {
+font-size: 83%;
+}
+
+form.active_form select, form.active_form input {
+    background-color: #ffa;
+    font-weight: bold;
+}
+
+
+/* The front page search form. */
+
+div#column_left form {
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+    background-color: #ddd;
+    padding:.65em .45em .65em .45em;
+}
+div#column_left form .search {
+    border: 1px solid #747678;
+    width: 9em;
+    padding: 0.25em;
+                               }
+
+a#logo {
+           position: absolute;
+           bottom: 0;
+           }
+
+/*
+#sr_header form, #sr_footer form, #sr_minors form {
+    margin: 10px 0 0 0;
+}
+
+#sr_header form .search, #sr_footer form .search {
+    border: 1px solid #747678;
+    width: 12em;
+    padding: 0.25em;
+}
+
+#sr_minors form .search {
+}
+
+#sr_minors {
+    background-color: #bbb;
+    padding:.05em .45em .65em .45em;
+}
+
+#sr_header form .submit, #sr_footer form .submit, #sr_minors form .submit {
+    background-color: #c60c30;
+    border: 1px solid #747678;
+    color: #fff;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+*/
+/* For the issue of container divs not taking the height of what they contain
+http://www.webtoolkit.info/css-clearfix.html
+   */
+
+.borderbox       { border: 1px black solid; margin-top:0em;}
+
+.clearboth { clear: both; }
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+

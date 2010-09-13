@@ -1,0 +1,41 @@
+BODY {color: black; padding-right: 20px;  }
+A:link, A:visited, .tooltip, table.sortable thead th {background: white; color: black; text-decoration: none;  }
+H1, H2, H3, h4, div.table_heading h2
+{background: white; color: black; padding-bottom: 1px;  border: 0px 0px 1px 0px solid gray;  }
+DIV.ad {display: none;  }
+DIV.adlocation {display: none;  }
+DIV.adlocation2 {display: none;  }
+
+.np {display: none;  }
+.dp {display: inline;  }
+
+FORM   {display:none;   }
+
+.tooltipExplain    { display:none; }
+.tooltipExplain    { display:none; }
+
+.inningHead { font-weight:bold;     }
+.boxSectHead { font-weight:bold; margin-bottom:0em; margin-top:0.45em; padding-bottom:0em;    }
+.subst    {  text-decoration: none; background-color: #fff; font-size: 85%; font-style: italic;   }
+
+.scoring1  {  font-weight: bold;    }
+.scoring0  {  font-weight: bold;    }
+
+.scoreTitle  { font-weight:bold;   }
+.teamTitle  {  font-weight:bold;   }
+.recordTitle  { font-weight:bold;   }
+.streakTitle  { font-weight:bold;   }
+.standingTitle  { font-weight:bold;   }
+#linescore  { font-weight:normal;   }
+
+#lineups   { page-break-before: always;   }
+#boxesbottom, #pbpexplain {   font-size: 50%;   }
+#watermark { position:fixed; right: 0px; top: 0px; }
+
+span.pitch_sequence { display: inline; }
+.print_only {display:inline; }
+div.print_only, p.print_only {clear: both; display:block; }
+
+#sr_header, div#quick_index, div.rhs_ad_area, .redesign_note, span.table_heading_links, h2.alt,
+div#stats_sub_index
+{ display: none; }

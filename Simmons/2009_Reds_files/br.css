@@ -1,0 +1,108 @@
+
+form .submit,#quick_index li.active a, #quick_index li a:hover, .table_heading h1, .table_heading h2, .table_heading h3, .table_heading h4, .table_heading h1 a,.table_heading h2 a,.table_heading h3 a,.table_heading h4  a, .table_heading h1 a:visited,.table_heading h2 a:visited,.table_heading h3 a:visited,.table_heading h4  a:visited {
+background-color: #c60c30;
+color:#fff;
+}
+
+
+form.active_form input[type="submit"] {
+background-color: #c60c30;
+color:#fff;
+}
+
+form  input[type="submit"] {
+background-color: #000;
+color:#fff;
+}
+
+
+div#div_wpa_chart {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/white.png); padding:0; margin:0;  background-attachment: scroll!important }
+div#wpa_chart {width:100%; padding:0; margin:0;}
+div#leverage_chart {clear:both; width:100%; padding:0; margin:0; border-top: 2px solid black;}
+div.inning { float:left; border-right: 1px  solid black; padding:0; margin:0;}
+
+span.leverage           { width: 10px; height: 10px;  display: inline; float: left; background-image: url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/leverage_sprite.png); background-attachment: scroll!important }
+span.play_chart         { width: 10px; height: 200px; display: inline; float: left; background-image: url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/chart_sprite.png);    background-attachment: scroll!important }
+span.play_chart a       { display: block; height: 200px; }
+span.play_chart a:hover { background-image: url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/chart_sprite_hl.png); }
+
+
+div#bottom_1 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_1.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_2 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_2.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_3 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_3.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_4 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_4.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_5 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_5.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_6 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_6.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_7 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_7.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_8 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_8.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_9 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_9.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_10 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_10.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_11 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_11.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_12 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_12.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_13 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_13.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_14 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_14.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_15 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_15.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_16 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_16.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_17 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_17.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_18 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_18.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_19 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_19.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_20 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_20.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_21 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_21.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_22 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_22.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_23 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_23.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_24 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_24.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_25 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_25.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_26 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_26.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_27 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_27.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_28 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_28.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_29 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_29.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_30 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_30.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_31 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_31.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_32 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_32.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_33 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_33.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_34 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_34.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_35 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_35.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_36 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_36.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_37 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_37.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_38 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_38.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#bottom_39 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/bottom_39.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+
+div#top_1 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_1.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_2 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_2.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_3 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_3.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_4 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_4.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_5 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_5.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_6 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_6.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_7 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_7.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_8 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_8.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_9 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_9.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_10 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_10.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_11 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_11.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_12 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_12.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_13 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_13.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_14 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_14.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_15 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_15.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_16 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_16.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_17 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_17.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_18 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_18.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_19 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_19.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_20 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_20.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_21 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_21.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_22 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_22.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_23 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_23.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_24 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_24.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_25 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_25.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_26 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_26.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_27 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_27.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_28 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_28.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_29 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_29.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_30 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_30.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_31 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_31.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_32 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_32.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_33 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_33.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_34 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_34.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_35 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_35.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_36 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_36.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_37 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_37.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_38 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_38.png); background-repeat:no-repeat;     background-attachment: scroll!important }
+div#top_39 {background-image:url(http://d2ft4b0ve1aur1.cloudfront.net/boxes-002/images/top_39.png); background-repeat:no-repeat;     background-attachment: scroll!important }
